@@ -1,5 +1,5 @@
 # Markov_Chain_SEIR_VAR_SJTU_Model_Porject {Markov_Chain_in_Epidemic_Model_and_Optimized_with_Brownian_Motion}
-## SJTU MA227 Probability Theory and Stochastic Processes Big Assignment
+## SJTU MA227 Probability Theory and Stochastic Processes Project
 ## Application of Markov chain in infectious disease dynamics model and combined with Brownian motion optimization
 &nbsp;
 
