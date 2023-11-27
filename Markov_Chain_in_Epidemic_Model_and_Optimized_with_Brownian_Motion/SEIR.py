@@ -24,6 +24,7 @@ E = np.array(E)
 R = np.array(R)
 font1 = {'family' : 'Times New Roman',  'weight' : 'normal',  'size': 15}
 font2 = {'family' : 'Times New Roman',  'weight' : 'normal',  'size': 20} 
+# visualizaiton
 plt.figure(figsize=(10,6.18), dpi=80)
 ax = plt.subplot(1,1,1)
 
